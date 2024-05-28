@@ -5,7 +5,8 @@
 <h3 align="center">I am a Computer Science and Engineering Student.</h3>
 <img align="right" alt ="coding" width="400" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7605.jpg">
 
-- 🔭 I’m currently working on **learning management system**
+- 🔭 I’m currently working on **MERN**
+- 👩‍💻I'm Passionate about solving DSA problems
 
 - 🌱 I’m currently learning **Next.js React Native**
 
