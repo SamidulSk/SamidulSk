@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Sk Samidul Hossain</h1>
 <h3 align="center">I am a Computer Science and Engineering Student.</h3>
-<img align="right" alt ="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt ="coding" width="400" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7605.jpg">
 
 - 🔭 I’m currently working on **learning management system**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sZo2FleJWm02TJMmHPyFikDWHpe9goCf/view?usp=drive_link](https://drive.google.com/file/d/1sZo2FleJWm02TJMmHPyFikDWHpe9goCf/view?usp=drive_link)
 
-- ⚡ Fun fact :-> **always creative mindset..🤪**
+- ⚡ Fun fact **always creative mindset..🤪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
