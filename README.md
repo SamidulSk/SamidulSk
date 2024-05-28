@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ...Sk Samidul Hossain and I'm a ...Computer Science and Engineering Student 👩‍💻, from .... Kolkata 🏙️, I love to explore Tech🌐</h2>
+<h2 align="left">Hi 👋! My name is ...Sk Samidul Hossain and I'm a ...Computer Science and Engineering Student 👩‍💻, I'm from .... Kolkata 🏙️, I love to explore Tech🌐</h2>
 
 ###
 
