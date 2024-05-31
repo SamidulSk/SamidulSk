@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **MERN**
 - 👩‍💻I'm Passionate about solving DSA problems
 
-- 🌱 I’m currently learning **Next.js React Native**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SamidulSk](https://github.com/SamidulSk)
 
